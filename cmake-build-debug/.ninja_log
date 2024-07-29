@@ -1,0 +1,9 @@
+# ninja log v6
+3	432	1722282264122354994	CMakeFiles/TypeReasure4.dir/high_interest_savings_with_min_balance.cpp.o	6c14f9ae4c6b6407
+2	433	1722282264121354992	CMakeFiles/TypeReasure4.dir/certificate_of_deposit.cpp.o	b6603f9c4478b061
+432	708	1722282264551356188	CMakeFiles/TypeReasure4.dir/high_interest_savings.cpp.o	922864865ca862b6
+433	709	1722282264552356191	CMakeFiles/TypeReasure4.dir/high_interest_checking.cpp.o	298aae12802a05d8
+1	770	1722282264120354989	CMakeFiles/TypeReasure4.dir/main.cpp.o	68b6b6061af94ed7
+709	959	1722282264828356959	CMakeFiles/TypeReasure4.dir/service_charge_checking.cpp.o	715c6dc2f2e573a4
+708	959	1722282264827356956	CMakeFiles/TypeReasure4.dir/no_service_charge_checking.cpp.o	44adb7c9dcdc56b8
+959	1019	1722282265078357654	TypeReasure4	b0287477ba6ebe93
